@@ -9,3 +9,4 @@ This is a repo that demonstrates my reimplemented library function of my [OS](ht
 
 **vsprintf** & **sprintf**: Basic formatting functions.
 
+> You may learn more in [repo's Wiki](https://github.com/TravorLZH/reimplementation-collection/wiki)
